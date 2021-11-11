@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bnbfarm/static/css/main.d273e37f.chunk.css",
-    "main.js": "/bnbfarm/static/js/main.37b6aa00.chunk.js",
-    "main.js.map": "/bnbfarm/static/js/main.37b6aa00.chunk.js.map",
+    "main.js": "/bnbfarm/static/js/main.bd0e379b.chunk.js",
+    "main.js.map": "/bnbfarm/static/js/main.bd0e379b.chunk.js.map",
     "runtime-main.js": "/bnbfarm/static/js/runtime-main.795e013d.js",
     "runtime-main.js.map": "/bnbfarm/static/js/runtime-main.795e013d.js.map",
     "static/js/2.93f994e4.chunk.js": "/bnbfarm/static/js/2.93f994e4.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.795e013d.js",
     "static/js/2.93f994e4.chunk.js",
     "static/css/main.d273e37f.chunk.css",
-    "static/js/main.37b6aa00.chunk.js"
+    "static/js/main.bd0e379b.chunk.js"
   ]
 }
